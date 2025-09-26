@@ -1,0 +1,6 @@
+Nro,Observacion,NombreCliente,DireccionCliente,TelefonoCliente,DatosReferenciaDireccionCliente,Estado
+1,Entrega urgente,Juan Perez,Calle 1 123,1122334455,Depto B,false
+2,Sin apuro,Ana Gomez,Avenida 2 456,1133445566,Piso 3,false
+3,Frágil,Pedro Lopez,Bulevar 3 789,1144556677,Casa al fondo,false
+4,Horario especial,Lucía Martínez,Calle 4 321,1155667788,Frente a la plaza,false
+5,Requiere cambio,Marcos Díaz,Avenida 5 654,1166778899,Local 12,false
